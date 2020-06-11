@@ -18,7 +18,7 @@
 	end
 
 
-	if fido = fido.breed
-	else
-		return "mutt"
+	fido.breed
+	puts "pug"
+		else "mutt"
 	end
